@@ -1,5 +1,5 @@
 # Hi, I'm Oleh 💫:
-Passionate student and aspiring developer with a keen interest in C, Python, and web development. <br>I am currently a student at the Technical University of Košice, majoring in Informatics. This year I studied the C programming language, which was quite interesting. I also like to program in Python and create websites. Now I want to focus on learning the ***React*** framework. Here you can see small projects I've done.
+I am currently a student at the Technical University of Košice, majoring in Informatics. This year I studied the C programming language, which was quite interesting. I also like to program in Python and create websites. Here you can see small projects I've done.
 
 
 ## 🌐 Socials:
